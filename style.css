@@ -1,0 +1,15 @@
+*{
+    font-family: sans-serif;
+}
+a{
+    color:#426fff; 
+}
+li{
+    margin:7px;
+}
+.card-2,.card-3, .card-4{
+    margin-top:25px
+}
+small{
+    margin-top:10px
+}
